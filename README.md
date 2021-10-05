@@ -8,3 +8,6 @@ mkdir MOD_{1,2,3,4,5}
 
 ## Module 1 HW
 - Folder: MOD_1
+
+## Module 2 HW
+- Folder: MOD_2
