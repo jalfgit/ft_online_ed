@@ -11,3 +11,7 @@ mkdir MOD_{1,2,3,4,5}
 
 ## Module 2 HW
 - Folder: MOD_2
+
+## Module 3 HW
+- Folder: MOD_3
+
