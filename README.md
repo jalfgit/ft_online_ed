@@ -15,3 +15,8 @@ mkdir MOD_{1,2,3,4,5}
 ## Module 3 HW
 - Folder: MOD_3
 
+## Module 4 HW 
+- Folder: MOD_4
+- Ganache, Blockchain, MetaMask
+
+## Module 5: Not Applicable to Training Path
